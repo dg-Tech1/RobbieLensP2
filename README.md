@@ -1,1 +1,1 @@
-# dg-Tech1.github.io-RobbieLensP2-
+Base de code pour le cours HTML CSS pour le projet 2 final de la maquette Robbiens Lens photographe.
